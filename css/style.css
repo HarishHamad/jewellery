@@ -742,7 +742,7 @@ a:focus {
 }
 
 .info_section {
-  background-color: #363636;
+  background-color: #164074;
   color: #ffffff;
 }
 
@@ -889,7 +889,7 @@ a:focus {
 
 /* footer section*/
 .footer_section {
-  background-color: #363636;
+  background-color: #195ab6;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -911,4 +911,5 @@ a:focus {
 .footer_section a {
   color: #9c9b9b;
 }
+
 /*# sourceMappingURL=style.css.map */
